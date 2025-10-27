@@ -39,9 +39,7 @@ Built with **MediaPipe**, **TensorFlow (LSTM)**, and **Streamlit**, this project
 ├── signlanguage.ipynb → Model training and testing notebook
 ├── requirements.txt → Required libraries and dependencies
 ├── Project_Documentation.docx → Detailed project documentation
-├── images/
-│ ├── flowchart.png → System flowchart visualization
-│ └── sample_output.png → Example output from gesture detection
+
 
 
 ---
